@@ -1,5 +1,9 @@
 # Front-end Style Guide
 
+Ver proyecto:
+
+[https://leoscabyx.github.io/order-summary-component/](https://leoscabyx.github.io/order-summary-component/)
+
 ## Layout
 
 The designs were created to the following widths:
@@ -28,5 +32,13 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
-- Weights: 500, 700, 900
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 100, 400, 700
+
+#### Design Mobile
+
+![Vista Movil](./design/mobile-design.jpg)
+
+#### Design Desktop
+
+![Vista Desktop](./design/desktop-design.jpg)
